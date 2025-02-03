@@ -20,7 +20,7 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
   ```bash
-  git clone https://github.com/seu-usuario/boavista-ui-storybook.git
+  git clone https://github.com/deivsonbf/boavista-ui-storybook.git
   ```
 2. Navegue até o diretório do projeto:
   ```bash
